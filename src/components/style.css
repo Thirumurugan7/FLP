@@ -1,0 +1,19 @@
+.logo:hover {
+  color: white;
+}
+
+.logo {
+  color: green;
+}
+
+.hate {
+  border-radius: 2px;
+  border-style: solid;
+  border-color: green;
+}
+
+.hate:hover {
+  border-radius: 4px;
+  border-style: solid;
+  color: white;
+}
